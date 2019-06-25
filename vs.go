@@ -9,6 +9,6 @@ func main() {
 	j := 3
 	m := 6
 	k := 1
-	fmt.Println(i + j + m)
+	fmt.Println(i + j + m + k)
 
 }
