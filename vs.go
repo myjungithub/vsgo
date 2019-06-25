@@ -7,6 +7,7 @@ import (
 func main() {
 	var i int = 100
 	j := 3
-	fmt.Println(i + j)
+	k := 4
+	fmt.Println(i + j + k)
 
 }
